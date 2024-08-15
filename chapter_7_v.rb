@@ -3,7 +3,7 @@ arr_user_inputs = []
 
 
 while str_user_input != "\n"
-    puts 
+    puts 'Tell us a fave word of yours :D' 
     str_user_input = gets 
     if str_user_input == "\n"
     else
