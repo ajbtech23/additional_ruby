@@ -1,7 +1,11 @@
 command = ''
 
 while command.downcase != 'bye'
-    puts command
+    if command == ''
+        #
+    else
+        puts command
+    end 
     command = gets.chomp
 end
 
