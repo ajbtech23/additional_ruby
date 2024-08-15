@@ -1,4 +1,5 @@
 tawk = ''
+bye_counter = 0 
 
 while tawk.upcase != 'BYE'
     #
