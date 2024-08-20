@@ -1,5 +1,5 @@
-attack_by_land = true
-attack_by_sea = false
+attack_by_land = false
+attack_by_sea = true
 
 if attack_by_land
   puts "Release the Goat"
