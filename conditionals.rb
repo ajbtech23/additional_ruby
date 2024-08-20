@@ -11,3 +11,13 @@ if 1 > 2
 else
   puts ("Ha.".chomp)
 end
+
+puts "Hot diggity damn, 1 is less than 2" if 1 < 2
+
+attack_land = false
+
+if attack_land
+  puts "Release the goat"
+else
+  puts "Release the shark"
+end
